@@ -15,6 +15,10 @@ public:
 	void SetCustomerName();
 	void SetproductId();
 	void SetprductName();
+	void pack();
+	void unpack();
+	void dispaly();
+	void displayAll();
 	
 };
 
